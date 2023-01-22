@@ -1,0 +1,1 @@
+This file sontains all the code that developer are creating for the application.
